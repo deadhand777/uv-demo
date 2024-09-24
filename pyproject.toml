@@ -6,6 +6,10 @@ authors = [{ name = "Chris", email = "c.schulz@drklein.de" }]
 readme = "README.md"
 keywords = ['python']
 requires-python = ">=3.8,<4.0"
+dependencies = [
+    "awswrangler==3.9.1",
+    "loguru>=0.7.2",
+]
 
 [project.urls]
 Homepage = "https://deadhand777.github.io/uv-demo/"
