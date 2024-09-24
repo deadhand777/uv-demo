@@ -5,7 +5,7 @@ site_description: This is a template repository for Python projects that use uv 
 site_author: Chris
 edit_uri: edit/main/docs/
 repo_name: deadhand777/uv-demo
-copyright: Maintained by <a href="https://deadhand777.com">Florian</a>.
+copyright: Maintained by <a href="https://deadhand777.com">deadhand777</a>.
 
 nav:
   - Home: index.md
@@ -21,13 +21,6 @@ theme:
   feature:
     tabs: true
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: white
-      accent: deep orange
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
