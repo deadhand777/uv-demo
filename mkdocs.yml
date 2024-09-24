@@ -5,7 +5,7 @@ site_description: This is a template repository for Python projects that use uv 
 site_author: Chris
 edit_uri: edit/main/docs/
 repo_name: deadhand777/uv-demo
-copyright: Maintained by <a href="https://deadhand777.com">deadhand777</a>.
+copyright: Maintained by <a href="https://deadhand777.com">chris</a>.
 
 nav:
   - Home: index.md
